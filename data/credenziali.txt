@@ -1,0 +1,17 @@
+
+Credenziali d'accesso per testing
+tutti i dati sono gestiti tramite mysql
+
+Studenti:
+    { matricola: 'ANMS06' , password: 'abcd5' }
+    { matricola: 'ARMS04' , password: 'abcd3' }
+    { matricola: 'FRMS01' , password: 'abcd0' }
+    { matricola: 'GBMS05' , password: 'abcd4' }
+    { matricola: 'GSMS03' , password: 'abcd2' }
+    { matricola: 'SCMS02' , password: 'abcd1' }
+
+Insegnanti:
+    { matricola: 'MVMT02' , password: 'qwerty' }
+    { matricola: 'TNMT01' , password: 'qwerty' }
+
+	

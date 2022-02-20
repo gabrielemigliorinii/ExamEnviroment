@@ -1,0 +1,4 @@
+<Files LEGGERE.txt>
+	Order Allow,Deny
+	Deny from all
+</Files>

@@ -1,0 +1,5 @@
+file data/jwtc contiene valore che incrementa ad ogni token jwt generato. Serve per identificare un JWT
+
+le credenizali si trovano in data/credenziali.txt, solo per testing (non fanno parte del progetto finale)
+ 
+
